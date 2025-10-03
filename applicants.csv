@@ -1,0 +1,7 @@
+application_id,name,risk_status,requested_coverage
+APP-1001,Clark Kent,LOW_RISK,1000000
+APP-1002,Diana Prince,MEDIUM_RISK,3000000
+APP-1003,Bruce Banner,HIGH_RISK,5000000
+APP-1004,Arthur Curry,LOW_RISK,1500000
+APP-1005,Barry Allen,MEDIUM_RISK,2000000
+APP-1006,Hal Jordan,HIGH_RISK,4000000
